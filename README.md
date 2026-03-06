@@ -47,7 +47,7 @@ When designing large open-world landscapes in Unreal Engine 5, you need to balan
 
 ### Artist Mode (`artist.html`)
 
-A streamlined, artist-friendly view that exposes only the most relevant parameters for landscape artists — without overwhelming technical detail. Includes a **Share Artist Link** button that encodes the entire configuration into the URL hash, so specs can be sent directly to a technical director or artist without any manual copy-paste.
+A streamlined, artist-friendly view that exposes only the most relevant parameters for landscape artists — without overwhelming technical detail. Includes a **Share Artist Link** button that encodes the entire configuration into the URL, so specs can be sent directly to a technical director or artist without any manual copy-paste.
 
 ---
 
@@ -61,7 +61,7 @@ A streamlined, artist-friendly view that exposes only the most relevant paramete
 ## Technology
 
 - Pure **HTML5 / CSS3 / Vanilla JavaScript** — no frameworks, no dependencies, no build step
-- URL hash-based state sharing (Base64 encoded config)
+- URL hash-based state sharing
 
 ---
 
@@ -88,4 +88,5 @@ See [LICENSE](LICENSE) for full details.
 The source code is **not published** in this repository. This repo exists for changelog, legal documentation and public reference purposes only.
 
 If you have questions or feedback, open an [issue](../../issues).
+
 
