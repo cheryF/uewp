@@ -2,8 +2,6 @@
 
 All notable changes to **uewp.dev — UE5 World Partition Landscape Calculator** are documented here.
 
-Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-
 ---
 
 ## [2.1] — 2026-03 · UE 5.7
@@ -57,4 +55,5 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [1.x] — 2025
 
 > Internal / pre-release versions. Not publicly documented.
+
 
