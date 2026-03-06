@@ -61,9 +61,7 @@ A streamlined, artist-friendly view that exposes only the most relevant paramete
 ## Technology
 
 - Pure **HTML5 / CSS3 / Vanilla JavaScript** — no frameworks, no dependencies, no build step
-- Single-page, fully offline-capable after first load
 - URL hash-based state sharing (Base64 encoded config)
-- Google Analytics (gtag.js) for anonymous usage statistics
 
 ---
 
@@ -90,3 +88,4 @@ See [LICENSE](LICENSE) for full details.
 The source code is **not published** in this repository. This repo exists for changelog, legal documentation and public reference purposes only.
 
 If you have questions or feedback, open an [issue](../../issues).
+
