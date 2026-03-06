@@ -1,0 +1,56 @@
+LEGAL DISCLAIMER & COPYRIGHT — uewp.dev
+========================================
+
+uewp.dev and the UE5 World Partition Landscape Calculator are independently
+developed tools and are not affiliated with, endorsed by, or connected to
+Epic Games, Inc. or Unreal Engine™.
+"Unreal Engine" is a trademark of Epic Games, Inc.
+
+
+GENERATED DATA LICENSE
+----------------------
+
+All data, calculations, tables, estimates and outputs produced by this
+calculator are released under the:
+
+  CC0 1.0 Universal (Public Domain Dedication)
+
+You may use, modify, distribute and commercially exploit the generated data
+without any restriction or attribution.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/
+
+
+NO WARRANTY & LIABILITY DISCLAIMER
+------------------------------------
+
+The generated data is provided "AS IS" and without any warranty of any kind,
+express or implied.
+
+We do not guarantee the accuracy, completeness, reliability or suitability
+of the results for any purpose.
+
+We assume no responsibility and shall not be liable for any errors,
+inaccuracies, or any damages (including direct, indirect, incidental,
+consequential or punitive) arising from the use or misuse of the generated data.
+
+Always verify and profile on your target hardware before making decisions.
+
+Platform preset values are approximate — always profile on target hardware.
+
+
+WEBSITE COPYRIGHT
+-----------------
+
+© 2026 Chery / uewp.dev. All rights reserved.
+
+The design, layout, code, text (except generated outputs), images and user
+interface of this website are protected by copyright.
+
+Copying, mirroring, scraping or any form of reproduction of the website
+or its non-generated content is strictly prohibited without prior written
+permission.
+
+This repository is made public for transparency and reference purposes only.
+The source code is NOT licensed for reuse, redistribution, or derivative works
+without explicit written permission from the author.
