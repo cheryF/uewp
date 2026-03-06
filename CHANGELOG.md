@@ -22,7 +22,6 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - RVT vs Weightmap VRAM comparison table
 
 ### Changed
-- Upgraded to **v2.1** versioning (was v2.0 internal)
 - Resource Budget section now shows hardware load bars (CPU, RAM, GPU TFLOPs, VRAM) with color-coded thresholds
 - Streaming Grid Preview canvas updated to show HLOD region boundaries
 - Improved tooltip system with impact descriptions
@@ -58,3 +57,4 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [1.x] — 2025
 
 > Internal / pre-release versions. Not publicly documented.
+
