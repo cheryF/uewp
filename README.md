@@ -2,7 +2,7 @@
 
 > **Live site:** [uewp.dev](https://uewp.dev)
 
-A real-time, browser-based technical calculator for **Unreal Engine 5 World Partition Landscape** planning. No installation, no backend — everything runs client-side in a single HTML page.
+A real-time, browser-based technical calculator for **Unreal Engine 5 World Partition Landscape** planning. No installation, no backend — everything runs client-side in a single page.
 
 ---
 
@@ -88,5 +88,6 @@ See [LICENSE](LICENSE) for full details.
 The source code is **not published** in this repository. This repo exists for changelog, legal documentation and public reference purposes only.
 
 If you have questions or feedback, open an [issue](../../issues).
+
 
 
