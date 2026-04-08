@@ -1,8 +1,8 @@
-# UE5 World Partition Landscape Calculator
+# UE5 World Partition Landscape & Mesh Terrain Calculator
 
 > **Live site:** [uewp.dev](https://uewp.dev)
 
-A real-time, browser-based technical calculator for **Unreal Engine 5 World Partition Landscape** planning. No installation, no backend — everything runs client-side in a single page.
+A real-time, browser-based technical calculator for **Unreal Engine 5 World Partition Landscape & Mesh Terrain** planning. No installation, no backend — everything runs client-side in a single HTML page.
 
 ---
 
@@ -18,6 +18,7 @@ When designing large open-world landscapes in Unreal Engine 5, you need to balan
 
 ### Configurator (`index.html`)
 
+- **Dual Terrain Modes** — Toggle between classic **Landscape** (heightfield-based) and **Mesh Terrain** (UE 5.8+, Nanite clusters + baked texture arrays) with mode-specific UI and calculations
 - **Platform Presets** — One-click hardware profiles (PC, console, mobile) that auto-fill CPU/GPU/RAM fields
 - **World Partition grid** — Configure streaming cell grid size, region size and streaming distance
 - **Landscape scale & components** — X/Y/Z scale, section size, sections-per-component, quick presets (4×4 → 128×128)
@@ -69,7 +70,7 @@ A streamlined, artist-friendly view that exposes only the most relevant paramete
 
 | Version | UE Target | Status |
 |---|---|---|
-| v2.1 | UE 5.7 | ✅ Live |
+| v2.2 | UE 5.7+ | ✅ Live |
 
 ---
 
@@ -88,6 +89,5 @@ See [LICENSE](LICENSE) for full details.
 The source code is **not published** in this repository. This repo exists for changelog, legal documentation and public reference purposes only.
 
 If you have questions or feedback, open an [issue](../../issues).
-
 
 

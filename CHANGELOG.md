@@ -4,6 +4,26 @@ All notable changes to **uewp.dev — UE5 World Partition Landscape Calculator**
 
 ---
 
+## [2.2] — 2026-04 · UE 5.7+
+
+### Added
+- **Mesh Terrain mode** (UE 5.8+ Experimental) — full support for non-destructive static mesh terrain with Nanite clusters and baked texture arrays
+- **Terrain type toggle** — switch between Classic Landscape and Mesh Terrain in the Configurator with automatic UI adjustment per mode
+- **Mesh Terrain input controls** — Max Triangles per Section, Channel Texel Size, Weight Channels
+- **Mesh Terrain result cards** — Base Sections, Loaded Sections, Max Tri/Section, Nanite Geometry VRAM, Baked Texture Arrays, and Cook Time estimates
+- **Artist Mode Mesh Terrain support** — terrain type persistence in URL hash, MT-specific parameters (mtTri, mtTexel) encoded in share links
+- **Bidirectional terrain conversion** — switching modes automatically converts component/section values to matching ranges
+
+### Changed
+- UE target updated to 5.7+ (Mesh Terrain requires UE 5.8+)
+- RVT VRAM calculation now uses pool-based estimation matching UE5's actual behavior
+- Calculation refinements for CPU, VRAM and resource budget estimates across both terrain modes
+
+### Fixed
+- Component count values now correctly restore when switching between terrain modes
+
+---
+
 ## [2.1] — 2026-03 · UE 5.7
 
 ### Added
